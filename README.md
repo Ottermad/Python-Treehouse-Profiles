@@ -13,5 +13,5 @@ based on their profile name. The data is found at http://teamtreehouse.com/profi
 - `python app.py username subject`
 
 ### Examples
-`python app.py charliethomas total`
-`python app.py charliethomas Python chalkers JavaScript`
+- `python app.py charliethomas total`
+- `python app.py charliethomas Python chalkers JavaScript`
