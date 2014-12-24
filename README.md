@@ -7,10 +7,10 @@ based on their profile name. The data is found at http://teamtreehouse.com/profi
 ## Installation and Usage
 
 ### Requirments
-*requests - [http://docs.python-requests.org/en/latest/]
+- requests - [http://docs.python-requests.org/en/latest/]
 
-*`git clone https://github.com/Ottermad/Python-Treehouse-Profiles`
-*`python app.py username subject`
+- `git clone https://github.com/Ottermad/Python-Treehouse-Profiles`
+- `python app.py username subject`
 
 ### Examples
 `python app.py charliethomas total`
