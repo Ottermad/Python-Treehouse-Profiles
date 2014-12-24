@@ -16,9 +16,10 @@ def pairwise(iterable):
 # Global Variables
 people = [] # List of people to get data from
 
+# Cycle through every two arguments and append to people list
 for name, subject in pairwise(sys.argv[1:]):
    people.append({"username": name, "subject": subject})
 
-
+# Cycle through people and get and output the profile data
 for person in people:
 	profile.get(person["username"], person["subject"])
